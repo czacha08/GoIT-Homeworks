@@ -1,0 +1,9 @@
+id,name,lastname,phone,email,favorite
+1,bruce,wayne,987654321,bruce.wayne@wayneenterprises.com,True
+2,martha,wayne,999333555,martha.wayne@wayneenterprises.com,False
+3,thomas,wayne,102030405,thomas.wayne@wayneenterprises.com,False
+4,harley,quinn,000121000,harley.quinn@supervillain.com,False
+5,joker,joker,111232111,joker@supervillain.com,False
+6,joker2,joker2,444565444,joker2@supervillain.com,True
+7,barbara,gordon,778454877,"barbara.gordon@gcpd.com, oracle@superhero.com",False
+8,james,gordon,100252001,james.gordon@gcpd.com,True
